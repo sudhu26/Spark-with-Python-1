@@ -29,10 +29,10 @@ import json
 # In[ ]:
 
 
-consumer_key = 'PARwB8C5sjwr0B4y8hWYlwiFZ'
-consumer_secret = 'WGqhDGdX8sNycTyRqkggYFWtbyQHx6o2LuQsflHSIcj41UTVUW'
-access_token = '29685243-N8E3HqkbrMoMY4HJYp89Y2c3lvHROqwzPibtx2yBm'
-access_secret = 'iS8dBZ03jsghuQ9BuYbHmQ3iTfqgeCdF5vPo5qYC1lBLS'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 
 # In[ ]:
